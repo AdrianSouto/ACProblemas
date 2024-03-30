@@ -16,7 +16,5 @@ def find_primes(n):
         j = 1
         contador = 0
         i += 1
-
-# Llama a la función con un valor de n
 n = 20
 find_primes(n)
