@@ -3,7 +3,7 @@ section .data
     i dd 2
     j dd 1
     contador dd 0
-    N dd 10 ; replace 100 with your desired value of n
+    N dd 10
 
 section .text
     global main
